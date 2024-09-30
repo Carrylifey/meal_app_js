@@ -42,7 +42,7 @@ Check out the live demo of the application at https://imsahadeb.github.io/The-Me
 
 ## Authors
 
-- [@imsahadeb](https://github.com/carrylifey)
+- [@carrylifey](https://github.com/carrylifey)
 
 ## License
 
@@ -50,4 +50,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- The Meal DB API (https://www.themealdb.com
+- The Meal DB API (https://www.themealdb.com)
